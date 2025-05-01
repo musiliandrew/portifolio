@@ -30,7 +30,7 @@ const Terminal = ({ theme, setTheme }) => {
   const inputRef = useRef(null);
   const outputRef = useRef(null);
 
-  const blipSound = new Audio('/assets/blip.mp3');
+  const blipSound = new Audio('/assets/bliiip.mp3');
   const glitchSound = new Audio('/assets/terminal_glitch.mp3');
   const ambientHum = new Audio('/assets/ambient_hum.mp3');
 
