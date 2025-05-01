@@ -1,0 +1,38 @@
+[
+    {
+      "id": "exp_quantiq",
+      "title": "Founder & Lead Developer, QuantIQ",
+      "period": "Jan 2025 – Present",
+      "description": "Built and maintained the core analytics and automation modules. Leading projects on quant strategy, AI dashboards, and intelligent systems for finance and risk."
+    },
+    {
+      "id": "exp_upwork",
+      "title": "Professional Freelancer, Upwork",
+      "period": "March 2024 – Aug 2024",
+      "description": "Delivered AI, data science, and automation solutions for clients globally. Handled web scraping, predictive modeling, and API integration."
+    },
+    {
+      "id": "exp_maxisell",
+      "title": "Founder & Operational Manager, Maxisell Analytics Agency",
+      "period": "Feb 2024 – Present",
+      "description": "Led client data transformation projects, reporting, and custom dashboard development."
+    },
+    {
+      "id": "exp_makueni_junior",
+      "title": "Junior Web Developer, Makueni Tech Hub",
+      "period": "June 2023 – Jan 2024",
+      "description": "Built websites and internal tools using Django + React. Improved UI/UX and system responsiveness."
+    },
+    {
+      "id": "exp_followthemoney",
+      "title": "Software Tester & Content Contributor, FollowTheMoney",
+      "period": "Nov 2022 – March 2023",
+      "description": "Tested public systems and wrote SEO content for social transparency."
+    },
+    {
+      "id": "exp_makueni_intern",
+      "title": "Web Developer Intern, Makueni Tech Hub",
+      "period": "April 2021 – Sept 2021",
+      "description": "Assisted in web development projects, focusing on building and testing web applications."
+    }
+  ]

@@ -1,0 +1,47 @@
+{
+    "computer_skills": [
+      "Proficiency in Microsoft Suite (Word, Excel, PowerPoint)",
+      "Typing skills",
+      "Using Google Search effectively for research purposes",
+      "Linux skills for system administration and development"
+    ],
+    "software_development": [
+      "Full-stack web development using Javascript-React and Python-Django",
+      "Scripting and automation using Python",
+      "Developing web applications and APIs",
+      "Implementing data-driven features",
+      "Used PyQt to build Desktop App",
+      "Dart and Flutter Framework"
+    ],
+    "data_science_analytics": [
+      "Data cleaning, preprocessing, and manipulation using Pandas and NumPy",
+      "Exploratory data analysis with Matplotlib and Seaborn",
+      "Statistical analysis and hypothesis testing with SciPy",
+      "Building and evaluating machine learning models",
+      "Working with SQL for data querying and manipulation",
+      "Machine Learning & Forecasting",
+      "Big Data Analytics (Amazon Reviews Project)",
+      "NLP, Classification Models, Regression, Clustering",
+      "BI Dashboards, Data Visualization"
+    ],
+    "cloud_automation": [
+      "AWS (Free Tier): EC2, S3, Lambda, CloudWatch",
+      "Automation Scripts, Web Scraping, Bots"
+    ],
+    "remote_work_collaboration": [
+      "Remote collaboration using communication tools like Slack, Zoom, or Microsoft Teams",
+      "Version control with Git",
+      "Managing tasks and projects using tools like Jira or Trello",
+      "Time management and self-organization for remote work environments",
+      "GitHub, GitLab",
+      "Slack, Zoom, MS Teams",
+      "Jira, Trello, Notion"
+    ],
+    "other_skills": [
+      "Creating and delivering presentations",
+      "Database management with MS Access",
+      "Basic knowledge of AI and ML models",
+      "Familiarity with SQL databases",
+      "Linux and Windows Knowledge"
+    ]
+  }

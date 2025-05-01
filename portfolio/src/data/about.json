@@ -1,0 +1,42 @@
+{
+    "name": "Musili Andrew Mwau",
+    "bio": "A dedicated and hardworking individual with a strong passion for programming and data science. Pursuing a BSc in Mathematics and Computer Science at Kenyatta University, with experience in Python programming, front-end web development, data entry, and Microsoft Suite. Knowledgeable in HTML, CSS, and actively studying data science. Leveraging skills in Communication, Leadership, Adaptability, and Problem-solving, I thrive in remote working environments. Currently engaged in freelance work with Turing, a USA-based company, while contributing to platforms like Upwork and Fiverr. As a tech influencer, I share insights through technical writing, enhancing my expertise. My commitment to lifelong learning is evident through ongoing studies on platforms like W3Schools, where I've completed multiple modules and pursue certifications. With a strong foundation in software development and data analysis, I showcase my proficiency through a portfolio of projects on GitHub. My consistent contributions to open-source communities demonstrate discipline and dedication. I utilize Kaggle for dataset sourcing and have earned certificates to validate my expertise. Within my agency, I excel in content creation, webpage development, and report generation, using tools like React, Python-Django, and SQL. My work ethic, integrity, and collaborative spirit drive me to deliver exceptional results. I am passionate about leveraging technology to solve complex challenges and eager to bring my skills and enthusiasm to new opportunities.",
+    "contact": {
+      "phone": ["+254759313238", "+254742574698"],
+      "email": ["musili_andrewg@gmail.com", "musiliofficialandrew@gmail.com"],
+      "whatsapp": "+254742574698",
+      "linkedin": "musili-andrew07",
+      "github": ["github.com/musiliandrew", "github.com/andrew-pyrookie"],
+      "twitter": "@musili_andrewG",
+      "kaggle": "https://www.kaggle.com/mwauandrew",
+      "w3schools": "https://www.w3profile.com/musiliandrew",
+      "portfolio": "portfolio-o9lw.vercel.app"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science in Mathematics and Computer Science",
+        "institution": "Kenyatta University",
+        "period": "2021 – Present"
+      },
+      {
+        "degree": "Kenya Certificate of Secondary Education",
+        "institution": "Kalulini Boy’s Secondary",
+        "period": "2017 – 2021"
+      },
+      {
+        "degree": "Kenya Certificate of Primary Education",
+        "institution": "Baraka Academy, Mtito-Andei",
+        "period": "2016"
+      }
+    ],
+    "target_roles": [
+      "Software Developer",
+      "Data Scientist",
+      "Quantitative Analyst",
+      "AI/ML Engineer",
+      "Risk Analyst",
+      "Product Developer",
+      "BI Developer",
+      "Automation Specialist"
+    ]
+  }

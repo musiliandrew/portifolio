@@ -1,0 +1,50 @@
+[
+    {
+      "id": "project_amazon_reviews",
+      "title": "Amazon Fashion Reviews Analysis",
+      "tech": ["Python", "Pandas", "NLP"],
+      "description": "Big data sentiment & price impact modeling using Amazon fashion reviews.",
+      "chart": "line",
+      "metrics": { "sentiment_accuracy": 0.87, "price_impact": 0.65 }
+    },
+    {
+      "id": "project_airbnb",
+      "title": "Airbnb Price Prediction",
+      "tech": ["Python", "Scikit-learn", "Regression"],
+      "description": "Predicting Airbnb prices using regression and machine learning techniques.",
+      "chart": "scatter",
+      "metrics": { "rmse": 4.2, "r2": 0.92 }
+    },
+    {
+      "id": "project_iveims",
+      "title": "IVEIMS – MedLab System",
+      "tech": ["Python", "Django", "React"],
+      "description": "A medical lab system for inventory and equipment management.",
+      "chart": "bar",
+      "metrics": { "efficiency": 0.95 }
+    },
+    {
+      "id": "project_blogai",
+      "title": "BlogAI & Fake News Detector",
+      "tech": ["Python", "NLP", "Transformers"],
+      "description": "NLP-based intelligent systems for blog generation and fake news detection.",
+      "chart": "line",
+      "metrics": { "accuracy": 0.89 }
+    },
+    {
+      "id": "project_quantiq",
+      "title": "QuantIQ & AI-BI-Dashboard",
+      "tech": ["Python", "Django", "React", "SQL"],
+      "description": "Quantitative data modules and business insights dashboard.",
+      "chart": "line",
+      "metrics": { "prediction_accuracy": 0.91 }
+    },
+    {
+      "id": "project_bookswaps",
+      "title": "BookSwaps",
+      "tech": ["React", "Django", "PostgreSQL"],
+      "description": "A full-stack project for swapping books online.",
+      "chart": "bar",
+      "metrics": { "user_engagement": 0.78 }
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "cert_intro_programming",
+      "title": "Introduction to Programming",
+      "issuer": "Kaggle",
+      "image": "public/assets/intro_to_programming.png"
+    },
+    {
+      "id": "cert_pandas",
+      "title": "Pandas",
+      "issuer": "Kaggle",
+      "image": "public/assets/pandas.png"
+    },
+    {
+      "id": "cert_python",
+      "title": "Python",
+      "issuer": "Kaggle",
+      "image": "public/assets/python.png"
+    },
+    {
+      "id": "cert_hackathon",
+      "title": "Hackathon Win (2nd Position with IVEIMS Project)",
+      "issuer": "Unknown",
+      "image": "public/assets/hackathon_win.png"
+    }
+  ]

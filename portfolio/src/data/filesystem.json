@@ -1,0 +1,41 @@
+{
+  "home": {
+    "about.txt": "about_me",
+    "skills": {
+      "computer.txt": "computer_skills",
+      "software.txt": "software_development",
+      "data_science.txt": "data_science_analytics",
+      "cloud.txt": "cloud_automation",
+      "remote.txt": "remote_work_collaboration",
+      "other.txt": "other_skills"
+    },
+    "projects": {
+      "amazon_reviews": "project_amazon_reviews",
+      "airbnb": "project_airbnb",
+      "iveims": "project_iveims",
+      "blogai": "project_blogai",
+      "quantiq": "project_quantiq",
+      "bookswaps": "project_bookswaps"
+    },
+    "tools": {
+      "ai_assistant": "tool_ai_assistant"
+    },
+    "certifications": {
+      "intro_programming.txt": "cert_intro_programming",
+      "pandas.txt": "cert_pandas",
+      "python.txt": "cert_python",
+      "hackathon.txt": "cert_hackathon"
+    },
+    "experience": {
+      "quantiq.txt": "exp_quantiq",
+      "upwork.txt": "exp_upwork",
+      "maxisell.txt": "exp_maxisell",
+      "makueni_junior.txt": "exp_makueni_junior",
+      "followthemoney.txt": "exp_followthemoney",
+      "makueni_intern.txt": "exp_makueni_intern"
+    },
+    "documents": {
+      "cv.txt": "cv_file"
+    }
+  }
+}
